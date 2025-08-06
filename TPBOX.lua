@@ -166,4 +166,5 @@ end
 
 collectAllBoxesAndTeleport()
 
-Teleport()
+
+-- Teleport()
